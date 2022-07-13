@@ -13,11 +13,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to Next.js!
         </h1>
 
         <p className={styles.description}>
-          Testing <a href="https://example-odb-next.netlify.app/odb">Hello World On Demand Builder Function</a>
+          Testing <a href="/odb/">Hello World On Demand Builder Function</a>
         </p>
 
       </main>

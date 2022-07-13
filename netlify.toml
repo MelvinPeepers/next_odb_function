@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/odb/"
+  from = "/odb/*"
   to = "/.netlify/builders/hello"
   status = 200
