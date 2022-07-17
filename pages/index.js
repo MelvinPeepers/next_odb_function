@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Next.js! - Split
+          Welcome to Next.js! - this is the split
         </h1>
 
         <p className={styles.description}>
